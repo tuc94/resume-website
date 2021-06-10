@@ -1,45 +1,27 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name": "John \"Tuc\" Baldecchi",
+    "occupation": "Software Engineering",
+    "description": "I am a self taught programmer that originally began my career as a management consultant but realized that I wanted to push myself and transitioned myself over to the career path of Software Development. With hard work, discipline, and mentorship, I have been able to make that change and wake up everyday loving that decision.",
+    "image": "Tuc-Baldecchi-HS.jpg",
+    "bio": "My expertise is in developing front end and back end components for serverless applications on the cloud. I have focused on Amazon Web Services (AWS) as my cloud platform of choice and earned certifications, the AWS Cloud Practitioner and AWS Associate Developer certifications, to improve my knowledge of this platform. Additionally, I continue to improve my skills in Full Stack development with personal projects. In addition to my software development experience, I have a unique background in working with high-level enterprise stakeholders, managing international subcontracting teams, simplifying complex software requirements, and improving business processes.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "tuc.baldecchi@gmail.com",
+    "phone": "804-922-1322",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city": "Washington DC Area"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://tucbucket.s3.amazonaws.com/Tuc+Baldecchi+Resume.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/john-tuc-baldecchi/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/tuc94",
         "className": "fa fa-github"
       }
     ]
@@ -48,30 +30,23 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Virginia Tech",
+        "degree": "Industrial and Systems Engineering / Minor in Business",
+        "graduated": "2019"
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Infinitive - College Board",
+        "title": "Software Devloper",
+        "years": "January 2020 - March 2021",
+        "description": "Worked inside an agile team, that contracted with College Board, to build a cloud based serverless application to handle the Accommodations Management for the entire College Board Organization"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Infinitive - Interal",
+        "title": "Full Stack Developer",
+        "years": "June 2019 - Present",
+        "description": "Built front end components in Vue.js and back end scripts in python for a custom AWS Media Insight application"
       }
     ],
     "skills": [
@@ -108,34 +83,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
+        "title": "NBA Scoreboard App",
+        "category": "A Basic Web app that displays nba scores, standings, and players stats",
+        "image": "nba-App.png",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
+        "title": "Chat App",
         "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "image": "chat-app.png",
+        "url": "https://tuc-baldecchi-chat-app.herokuapp.com/"
       },
       {
-        "title": "Original Thai Food",
+        "title": "Weather App",
         "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "image": "weather-app.png",
+        "url": "https://tuc-weather-app-test.herokuapp.com/"
       }
     ]
   },
